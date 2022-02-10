@@ -1,0 +1,2 @@
+2022-02-08 23:37:09.612 autotimer.py[49] get_chrome_url -> Find Control Timeout(10s): {ControlType: EditControl}
+2022-02-09 22:56:28.512 autotimer.py[49] get_chrome_url -> Find Control Timeout(10s): {ControlType: EditControl}

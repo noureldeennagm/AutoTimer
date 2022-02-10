@@ -1,0 +1,2693 @@
+{
+    "activities": [
+        {
+            "name": "C:\\Windows\\system32\\cmd.exe - python  autotimer.py",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:56:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 21:56:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:56:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-02-09 21:56:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:56:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-02-09 21:56:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:56:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-02-09 21:56:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:57:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-02-09 21:56:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:57:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 21:57:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:57:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 21:57:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:57:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 21:57:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:07:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:07:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:12:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-02-09 22:12:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:15:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:15:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:38:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:38:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:44:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:43:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:44:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:44:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:45:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:45:07"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:56:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 21:56:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:56:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 21:56:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:56:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-02-09 21:56:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:56:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-02-09 21:56:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:57:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 21:57:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:57:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 21:57:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:57:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2022-02-09 21:57:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:57:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 21:57:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:57:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 21:57:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:12:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:12:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:12:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:12:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:17:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:17:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:18:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:18:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:18:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:18:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:24:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:24:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:24:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-02-09 22:24:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:24:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 22:24:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:24:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-02-09 22:24:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:27:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:27:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:29:13",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 24,
+                    "start_time": "2022-02-09 22:27:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:29:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-02-09 22:29:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:32:32",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 44,
+                    "start_time": "2022-02-09 22:29:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:34:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 54,
+                    "start_time": "2022-02-09 22:33:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:35:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 36,
+                    "start_time": "2022-02-09 22:35:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:36:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-02-09 22:36:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:36:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-02-09 22:36:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:36:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-02-09 22:36:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:38:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 56,
+                    "start_time": "2022-02-09 22:37:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:38:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:38:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:38:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:38:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:38:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-02-09 22:38:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:40:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:40:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:42:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 42,
+                    "start_time": "2022-02-09 22:41:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:45:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 51,
+                    "start_time": "2022-02-09 22:44:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:45:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:45:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:46:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 22:46:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:47:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2022-02-09 22:46:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:47:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:47:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:50:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:50:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:53:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-02-09 22:53:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "start_time": "2022-02-09 22:54:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-02-09 22:55:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:55:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-02-09 22:55:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-02-09 22:55:47"
+                }
+            ]
+        },
+        {
+            "name": "youtube.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:56:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 21:56:13"
+                }
+            ]
+        },
+        {
+            "name": "facebook.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:56:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 21:56:19"
+                }
+            ]
+        },
+        {
+            "name": "\n",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:56:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-02-09 21:56:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:24:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-02-09 22:24:16"
+                }
+            ]
+        },
+        {
+            "name": "instagram.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:57:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 21:57:07"
+                }
+            ]
+        },
+        {
+            "name": "mail.rwth-aachen.de",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:57:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 21:57:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:51:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 16,
+                    "start_time": "2022-02-09 22:51:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:54:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:54:18"
+                }
+            ]
+        },
+        {
+            "name": "github.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 21:57:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 21:57:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:24:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-02-09 22:24:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:24:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:24:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:55:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:55:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-02-09 22:55:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:55:36"
+                }
+            ]
+        },
+        {
+            "name": "\u25cf Excel.py - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:07:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:07:03"
+                }
+            ]
+        },
+        {
+            "name": "\u25cf README.md - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:09:08",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:07:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:12:18",
+                    "hours": 0,
+                    "minutes": 3,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 22:09:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:14:00",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 17,
+                    "start_time": "2022-02-09 22:12:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:16:53",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 29,
+                    "start_time": "2022-02-09 22:15:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:17:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:17:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:18:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 52,
+                    "start_time": "2022-02-09 22:17:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:18:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2022-02-09 22:18:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:19:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 35,
+                    "start_time": "2022-02-09 22:18:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:20:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 44,
+                    "start_time": "2022-02-09 22:19:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:26:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-02-09 22:26:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:36:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2022-02-09 22:36:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:37:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-02-09 22:36:57"
+                }
+            ]
+        },
+        {
+            "name": "*activities.json - Notepad",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:09:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-02-09 22:09:08"
+                }
+            ]
+        },
+        {
+            "name": "ddp-group3-project",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:12:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-02-09 22:12:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:12:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:12:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:16:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:16:53"
+                }
+            ]
+        },
+        {
+            "name": "core",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:15:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:15:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:17:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 22:16:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:17:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-02-09 22:17:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:19:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-02-09 22:19:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:20:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:20:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 21,
+                    "start_time": "2022-02-09 22:20:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:22:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 20,
+                    "start_time": "2022-02-09 22:22:33"
+                }
+            ]
+        },
+        {
+            "name": "Preview README.md - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:18:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:18:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:18:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-02-09 22:18:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:23:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-02-09 22:22:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:23:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:23:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:49:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-02-09 22:49:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:50:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2022-02-09 22:49:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:50:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-02-09 22:50:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:50:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:50:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:50:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-02-09 22:50:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:54:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:54:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:54:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:54:36"
+                }
+            ]
+        },
+        {
+            "name": "Untitled - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:18:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:18:05"
+                }
+            ]
+        },
+        {
+            "name": "excel.py and 1 more page - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:18:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:18:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:54:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 16,
+                    "start_time": "2022-02-09 22:54:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:54:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:54:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:54:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:54:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:54:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:54:28"
+                }
+            ]
+        },
+        {
+            "name": "explainingcomputers.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:18:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:18:42"
+                }
+            ]
+        },
+        {
+            "name": "excel",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:18:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:18:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:24:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:24:11"
+                }
+            ]
+        },
+        {
+            "name": "README.md - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:20:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:20:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:20:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:20:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:20:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 34,
+                    "start_time": "2022-02-09 22:20:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:22:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:22:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:23:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:23:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:23:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 22:23:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:26:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 26,
+                    "start_time": "2022-02-09 22:25:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:26:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-02-09 22:26:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:36:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 22:35:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:36:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-02-09 22:36:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:36:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:36:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:37:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-02-09 22:37:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:44:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:44:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:49:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 22:49:34"
+                }
+            ]
+        },
+        {
+            "name": "Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:20:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:20:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:22:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:22:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:23:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:23:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:23:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:23:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:25:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:25:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:49:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:49:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:50:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:50:08"
+                }
+            ]
+        },
+        {
+            "name": "DRC",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:21:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:22:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2022-02-09 22:21:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:22:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2022-02-09 22:22:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:22:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:22:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:23:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-02-09 22:23:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:23:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 22:23:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:23:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:23:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:23:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:23:38"
+                }
+            ]
+        },
+        {
+            "name": "Repos",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-02-09 22:21:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:27:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2022-02-09 22:27:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:33:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:33:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:41:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 26,
+                    "start_time": "2022-02-09 22:41:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:43:26",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 15,
+                    "start_time": "2022-02-09 22:42:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:47:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:47:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:47:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:47:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:48:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:48:07"
+                }
+            ]
+        },
+        {
+            "name": "challenge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:21:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:21:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:23:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-02-09 22:23:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:24:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 30,
+                    "start_time": "2022-02-09 22:23:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:25:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-02-09 22:24:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:25:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:25:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:27:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-02-09 22:27:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:33:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2022-02-09 22:33:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:34:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-02-09 22:34:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:35:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:35:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:38:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 22:38:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:38:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:38:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:40:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-02-09 22:40:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:40:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:40:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:47:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 22:47:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:48:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:48:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:48:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-02-09 22:48:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:48:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:48:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:49:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 16,
+                    "start_time": "2022-02-09 22:48:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:49:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:49:18"
+                }
+            ]
+        },
+        {
+            "name": "4% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:31"
+                }
+            ]
+        },
+        {
+            "name": "9% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:32"
+                }
+            ]
+        },
+        {
+            "name": "13% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:33"
+                }
+            ]
+        },
+        {
+            "name": "19% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:34"
+                }
+            ]
+        },
+        {
+            "name": "22% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:35"
+                }
+            ]
+        },
+        {
+            "name": "26% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:36"
+                }
+            ]
+        },
+        {
+            "name": "31% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:37"
+                }
+            ]
+        },
+        {
+            "name": "35% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:38"
+                }
+            ]
+        },
+        {
+            "name": "39% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:39"
+                }
+            ]
+        },
+        {
+            "name": "45% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:40"
+                }
+            ]
+        },
+        {
+            "name": "46% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 22:21:41"
+                }
+            ]
+        },
+        {
+            "name": "51% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:46"
+                }
+            ]
+        },
+        {
+            "name": "56% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:47"
+                }
+            ]
+        },
+        {
+            "name": "60% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:48"
+                }
+            ]
+        },
+        {
+            "name": "66% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:49"
+                }
+            ]
+        },
+        {
+            "name": "72% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:50"
+                }
+            ]
+        },
+        {
+            "name": "78% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:51"
+                }
+            ]
+        },
+        {
+            "name": "84% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:52"
+                }
+            ]
+        },
+        {
+            "name": "89% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:53"
+                }
+            ]
+        },
+        {
+            "name": "93% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:22:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:22:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:49:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:49:25"
+                }
+            ]
+        },
+        {
+            "name": "98% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:21:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:21:55"
+                }
+            ]
+        },
+        {
+            "name": "0% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:22:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:22:16"
+                }
+            ]
+        },
+        {
+            "name": "A",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:24:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:24:52"
+                }
+            ]
+        },
+        {
+            "name": "Au",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:24:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:24:53"
+                }
+            ]
+        },
+        {
+            "name": "Autom",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:24:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:24:54"
+                }
+            ]
+        },
+        {
+            "name": "Automatic ",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:24:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:24:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:25:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:25:06"
+                }
+            ]
+        },
+        {
+            "name": "Automatic-Daily-Report-Creator",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:25:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-02-09 22:25:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:25:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:25:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:27:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:27:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:48:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:48:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:48:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-02-09 22:48:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:49:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-02-09 22:49:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:49:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:49:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:49:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 22:49:29"
+                }
+            ]
+        },
+        {
+            "name": "Automatic-Daily-ReportCreator",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:25:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:25:15"
+                }
+            ]
+        },
+        {
+            "name": "Automatic-Daily-Report Creator",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:25:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:25:16"
+                }
+            ]
+        },
+        {
+            "name": "Automatic-DailyReport Creator",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:25:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:25:17"
+                }
+            ]
+        },
+        {
+            "name": "Automatic-Daily Report Creator",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:25:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:25:18"
+                }
+            ]
+        },
+        {
+            "name": "Automatic Daily Report Creator",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:25:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-02-09 22:25:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:26:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 41,
+                    "start_time": "2022-02-09 22:26:13"
+                }
+            ]
+        },
+        {
+            "name": "noureldeennagm/Automatic-Daily-Report-Creator: In my last job I was required to create a daily report showing my daily tasks and how long did I work on each task. As a person who have a terrible memory this has been a very time consuming and a frustrating task to do. Later when I was intruduced to GitHub and python repos overall I learned that coding is all about automating such tasks that are easy but takes alot of time. In this repository I will explain to you how was I able to automatically track my com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:27:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2022-02-09 22:26:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:27:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-02-09 22:27:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:29:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-02-09 22:29:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:29:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2022-02-09 22:29:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:33:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "start_time": "2022-02-09 22:32:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:33:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-02-09 22:33:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:47:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 21,
+                    "start_time": "2022-02-09 22:47:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:50:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-02-09 22:50:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:50:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:50:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:51:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 26,
+                    "start_time": "2022-02-09 22:51:00"
+                }
+            ]
+        },
+        {
+            "name": "google.de",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:27:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:27:46"
+                }
+            ]
+        },
+        {
+            "name": "gitlab.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:27:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:27:47"
+                }
+            ]
+        },
+        {
+            "name": "/usr/bin/bash --login -i",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:34:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:34:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:38:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:38:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:40:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:40:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:40:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:40:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:47:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:47:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:48:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:48:25"
+                }
+            ]
+        },
+        {
+            "name": "MINGW64:/c/Users/nnagm/Repos/challenge/Automatic-Daily-Report-Creator",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:35:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 36,
+                    "start_time": "2022-02-09 22:34:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:38:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-02-09 22:38:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:38:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-02-09 22:38:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:40:05",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 14,
+                    "start_time": "2022-02-09 22:38:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:40:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2022-02-09 22:40:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:44:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 22:44:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:54:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:54:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:54:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-02-09 22:54:29"
+                }
+            ]
+        },
+        {
+            "name": "nnagm",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:40:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 22:40:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:41:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-02-09 22:40:58"
+                }
+            ]
+        },
+        {
+            "name": "MINGW64:/c/Users/nnagm/Repos",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:40:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2022-02-09 22:40:40"
+                }
+            ]
+        },
+        {
+            "name": "AutoTimer",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:43:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 33,
+                    "start_time": "2022-02-09 22:43:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:44:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:44:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:44:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:44:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:44:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-02-09 22:44:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:47:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-02-09 22:47:38"
+                }
+            ]
+        },
+        {
+            "name": "Search",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:45:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 22:45:11"
+                }
+            ]
+        },
+        {
+            "name": "Command Prompt",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:46:30",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 13,
+                    "start_time": "2022-02-09 22:45:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:46:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2022-02-09 22:46:36"
+                }
+            ]
+        },
+        {
+            "name": "is:open ",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:47:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-02-09 22:47:05"
+                }
+            ]
+        },
+        {
+            "name": "MINGW64:/c/Users/nnagm/Repos/challenge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:48:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-02-09 22:47:56"
+                }
+            ]
+        },
+        {
+            "name": "MINGW64:/c/Users/nnagm/Repos/challenge/New folder",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:48:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2022-02-09 22:48:28"
+                }
+            ]
+        },
+        {
+            "name": "New folder",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:48:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:48:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:48:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:48:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:49:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 22:49:19"
+                }
+            ]
+        },
+        {
+            "name": "Replace or Skip Files",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:49:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:49:26"
+                }
+            ]
+        },
+        {
+            "name": "57% complete",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:49:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:49:27"
+                }
+            ]
+        },
+        {
+            "name": "Connect to GitHub",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:50:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-02-09 22:50:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:50:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-02-09 22:50:35"
+                }
+            ]
+        },
+        {
+            "name": "Sign in to GitHub \u00b7 GitHub and 2 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:51:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-02-09 22:50:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:53:39",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 56,
+                    "start_time": "2022-02-09 22:51:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:53:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-02-09 22:53:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:53:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-02-09 22:53:50"
+                }
+            ]
+        },
+        {
+            "name": "Save password",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:53:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:53:39"
+                }
+            ]
+        },
+        {
+            "name": "Oh no \u00b7 GitHub and 2 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:54:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:53:59"
+                }
+            ]
+        },
+        {
+            "name": "noureldeen.nagm@rwth-aachen.de",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2022-02-09 22:55:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:55:45"
+                }
+            ]
+        },
+        {
+            "name": "google.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-02-09 22:55:31"
+                }
+            ]
+        },
+        {
+            "name": "n",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-02-09 22:55:51"
+                }
+            ]
+        },
+        {
+            "name": "nourel",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:55:54"
+                }
+            ]
+        },
+        {
+            "name": "noureldeen.",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:55:55"
+                }
+            ]
+        },
+        {
+            "name": "noureldeen.nagm",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:55:56"
+                }
+            ]
+        },
+        {
+            "name": "noureldeen.nagm@rw",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:55:57"
+                }
+            ]
+        },
+        {
+            "name": "noureldeen.nagm@rwtha",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:55:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:55:58"
+                }
+            ]
+        },
+        {
+            "name": "noureldeen.nagm@rwth-aa",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:56:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:55:59"
+                }
+            ]
+        },
+        {
+            "name": "noureldeen.nagm@rwth-aachen",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-02-09 22:56:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-02-09 22:56:01"
+                }
+            ]
+        }
+    ]
+}
